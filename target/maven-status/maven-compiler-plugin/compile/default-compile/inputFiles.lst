@@ -1,0 +1,15 @@
+/home/gerardo/Documentos/ProyectoWebApplicationDevelopment/intercambios/src/main/java/com/ipn/mx/modelo/dao/UsuarioDAO.java
+/home/gerardo/Documentos/ProyectoWebApplicationDevelopment/intercambios/src/main/java/com/ipn/mx/modelo/dto/AmistadDTO.java
+/home/gerardo/Documentos/ProyectoWebApplicationDevelopment/intercambios/src/main/java/com/ipn/mx/controlador/fileServlet.java
+/home/gerardo/Documentos/ProyectoWebApplicationDevelopment/intercambios/src/main/java/com/ipn/mx/modelo/entidades/relacionAmistad.java
+/home/gerardo/Documentos/ProyectoWebApplicationDevelopment/intercambios/src/main/java/com/ipn/mx/modelo/utilerias/md5.java
+/home/gerardo/Documentos/ProyectoWebApplicationDevelopment/intercambios/src/main/java/com/ipn/mx/controlador/userServlet.java
+/home/gerardo/Documentos/ProyectoWebApplicationDevelopment/intercambios/src/main/java/com/ipn/mx/modelo/dto/UsuarioDTO.java
+/home/gerardo/Documentos/ProyectoWebApplicationDevelopment/intercambios/src/main/java/com/ipn/mx/modelo/entidades/intercambios.java
+/home/gerardo/Documentos/ProyectoWebApplicationDevelopment/intercambios/src/main/java/com/ipn/mx/modelo/utilerias/mailSend.java
+/home/gerardo/Documentos/ProyectoWebApplicationDevelopment/intercambios/src/main/java/com/ipn/mx/modelo/dto/DestinatarioDTO.java
+/home/gerardo/Documentos/ProyectoWebApplicationDevelopment/intercambios/src/main/java/com/ipn/mx/modelo/dto/IntercambiosDTO.java
+/home/gerardo/Documentos/ProyectoWebApplicationDevelopment/intercambios/src/main/java/com/ipn/mx/modelo/entidades/usuario.java
+/home/gerardo/Documentos/ProyectoWebApplicationDevelopment/intercambios/src/main/java/com/ipn/mx/modelo/dao/IntercambiosDAO.java
+/home/gerardo/Documentos/ProyectoWebApplicationDevelopment/intercambios/src/main/java/com/ipn/mx/controlador/intercambioServlet.java
+/home/gerardo/Documentos/ProyectoWebApplicationDevelopment/intercambios/src/main/java/com/ipn/mx/modelo/entidades/destinatario.java
